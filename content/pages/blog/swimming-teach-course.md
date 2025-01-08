@@ -84,9 +84,8 @@ Australia offers a range of swimming courses tailored to different age groups an
 
 #### Explore Swimming Opportunities
 
-For those seeking structured learning and professional guidance,  offer comprehensive options. These courses prioritize safety and skill-building, ensuring participants gain confidence in the water. Explore available programs to find one that matches your needs.
+For those seeking structured learning and professional guidance,  offer comprehensive options. These courses prioritize safety and skill-building, ensuring participants gain confidence in the water. [Explore available programs](https://austswim.com.au/) to find one that matches your needs.
 
 #### Final Thoughts
 
 Enrolling in a swimming course is an investment in your health, safety, and personal development. Whether you're looking to overcome fear, refine techniques, or enjoy water activities, swimming courses in Australia provide the expertise and environment to help you succeed.
-
