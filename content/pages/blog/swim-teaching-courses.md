@@ -3,9 +3,7 @@ type: PostLayout
 title: The Benefits of Taking a Swim Teaching Courses for Career Growth
 date: '2025-01-08'
 author: content/data/person1.json
-excerpt: >-
-  Facilisis dui. Nulla molestie risus in mi dapibus, eget porta lorem semper.
-  Donec sed facilisis nibh.
+excerpt: The Benefits of Taking a Swim Teaching Courses for Career Growth
 featuredImage:
   type: ImageBlock
   url: /images/abstract-feature1.svg
