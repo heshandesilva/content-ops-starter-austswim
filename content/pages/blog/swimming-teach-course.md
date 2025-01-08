@@ -55,7 +55,7 @@ seo:
   type: Seo
   metaTitle: Benefits of Enrolling in Swimming Courses in Australia
   metaDescription: lorem-ipsum
-  addTitleSuffix: false
+  addTitleSuffix: true
   metaTags: []
 colors: bg-light-fg-dark
 styles:
