@@ -3,9 +3,7 @@ type: PostLayout
 title: The Top Benefits of Becoming a Teacher of Swimming and Water Safety
 date: '2025-01-08'
 author: content/data/person1.json
-excerpt: >-
-  Facilisis dui. Nulla molestie risus in mi dapibus, eget porta lorem semper.
-  Donec sed facilisis nibh.
+excerpt: teacher of swimming and water safety
 featuredImage:
   type: ImageBlock
   url: /images/abstract-feature1.svg
