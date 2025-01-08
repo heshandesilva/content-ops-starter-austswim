@@ -3,9 +3,7 @@ type: PostLayout
 title: What Makes a Great Swimming Instructor? Insights from Top Courses
 date: '2025-01-08'
 author: content/data/person1.json
-excerpt: >-
-  Facilisis dui. Nulla molestie risus in mi dapibus, eget porta lorem semper.
-  Donec sed facilisis nibh.
+excerpt: What Makes a Great Swimming Instructor? Insights from Top Courses
 featuredImage:
   type: ImageBlock
   url: /images/abstract-feature1.svg
