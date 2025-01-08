@@ -55,7 +55,7 @@ seo:
   type: Seo
   metaTitle: Essential Skills for Swim Teacher Training
   metaDescription: lorem-ipsum
-  addTitleSuffix: false
+  addTitleSuffix: true
   metaTags: []
 colors: bg-light-fg-dark
 styles:
