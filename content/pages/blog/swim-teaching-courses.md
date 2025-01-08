@@ -7,7 +7,7 @@ excerpt: The Benefits of Taking a Swim Teaching Courses for Career Growth
 featuredImage:
   type: ImageBlock
   url: /images/abstract-feature1.svg
-  altText: Thumbnail
+  altText: The Benefits of Taking a Swim Teaching Courses for Career Growth
   elementId: ''
   styles:
     self:
