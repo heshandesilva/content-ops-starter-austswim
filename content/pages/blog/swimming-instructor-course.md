@@ -7,7 +7,7 @@ excerpt: What Makes a Great Swimming Instructor? Insights from Top Courses
 featuredImage:
   type: ImageBlock
   url: /images/abstract-feature1.svg
-  altText: Thumbnail
+  altText: What Makes a Great Swimming Instructor? Insights from Top Courses
   elementId: ''
   styles:
     self:
