@@ -7,7 +7,7 @@ excerpt: swim teaching assessor course
 featuredImage:
   type: ImageBlock
   url: /images/abstract-feature1.svg
-  altText: Thumbnail
+  altText: swim teaching assessor course
   elementId: ''
   styles:
     self:
