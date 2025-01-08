@@ -55,7 +55,7 @@ seo:
   type: Seo
   metaTitle: What Makes a Great Swimming Instructor? Insights from Top Courses
   metaDescription: lorem-ipsum
-  addTitleSuffix: false
+  addTitleSuffix: true
   metaTags: []
 colors: bg-light-fg-dark
 styles:
