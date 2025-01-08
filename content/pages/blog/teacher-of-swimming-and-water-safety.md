@@ -55,7 +55,7 @@ seo:
   type: Seo
   metaTitle: The Top Benefits of Becoming a Teacher of Swimming and Water Safety
   metaDescription: lorem-ipsum
-  addTitleSuffix: false
+  addTitleSuffix: true
   metaTags: []
 colors: bg-light-fg-dark
 styles:
