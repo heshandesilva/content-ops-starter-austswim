@@ -53,7 +53,7 @@ isFeatured: false
 isDraft: false
 seo:
   type: Seo
-  metaTitle: lorem-ipsum
+  metaTitle: The Top Benefits of Becoming a Teacher of Swimming and Water Safety
   metaDescription: lorem-ipsum
   addTitleSuffix: false
   metaTags: []
