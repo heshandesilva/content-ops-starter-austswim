@@ -54,7 +54,10 @@ isDraft: false
 seo:
   type: Seo
   metaTitle: Essential Skills for Swim Teacher Training
-  metaDescription: lorem-ipsum
+  metaDescription: >-
+    Explore AUSTSWIM swim teacher training programs. Gain essential skills,
+    certifications, and techniques to inspire water confidence in learners of
+    all ages
   addTitleSuffix: true
   metaTags: []
 colors: bg-light-fg-dark
