@@ -4,14 +4,11 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: Unblock your team boost your time to production
+      text: Dive into Professional Training and Improve Your Skills
       color: text-dark
       type: TitleBlock
-    subtitle: Subtitle goes here
-    text: >
-      A Netlify Create website is a git repo that you own. Every code commit is
-      instantly reflected in the visual editor and since every visual edit is a
-      git commit, git workflows and collaboration just work.
+    subtitle: ''
+    text: ''
     actions:
       - label: Get started
         altText: ''
@@ -37,7 +34,7 @@ sections:
       elementId: ''
       type: ImageBlock
     badge:
-      label: This is a badge
+      label: Achieve Your Swimming Goals Faster
       color: text-primary
       type: Badge
     elementId: ''
