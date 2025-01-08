@@ -53,7 +53,7 @@ isFeatured: false
 isDraft: false
 seo:
   type: Seo
-  metaTitle: lorem-ipsum
+  metaTitle: Swim Teaching Assessor Course
   metaDescription: lorem-ipsum
   addTitleSuffix: true
   metaTags: []
