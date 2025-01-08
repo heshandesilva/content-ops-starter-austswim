@@ -7,7 +7,7 @@ excerpt: Benefits of Enrolling in Swimming Courses in Australia
 featuredImage:
   type: ImageBlock
   url: /images/abstract-feature1.svg
-  altText: Thumbnail
+  altText: Benefits of Enrolling in Swimming Courses in Australia
   elementId: ''
   styles:
     self:
