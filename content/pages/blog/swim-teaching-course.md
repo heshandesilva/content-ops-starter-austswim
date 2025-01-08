@@ -3,9 +3,7 @@ type: PostLayout
 title: 'What to Expect from a Swim Teaching Course: Skills and Certification'
 date: '2025-01-08'
 author: content/data/person1.json
-excerpt: >-
-  Facilisis dui. Nulla molestie risus in mi dapibus, eget porta lorem semper.
-  Donec sed facilisis nibh.
+excerpt: 'What to Expect from a Swim Teaching Course: Skills and Certification'
 featuredImage:
   type: ImageBlock
   url: /images/abstract-feature1.svg
