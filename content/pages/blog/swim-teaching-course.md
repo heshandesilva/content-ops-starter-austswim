@@ -55,7 +55,7 @@ seo:
   type: Seo
   metaTitle: 'What to Expect from a Swim Teaching Course: Skills and Certification'
   metaDescription: lorem-ipsum
-  addTitleSuffix: false
+  addTitleSuffix: true
   metaTags: []
 colors: bg-light-fg-dark
 styles:
