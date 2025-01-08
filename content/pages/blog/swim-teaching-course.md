@@ -62,6 +62,10 @@ styles:
   self:
     flexDirection: col
 ---
+
+
+
+
 Becoming a swim instructor requires specific training. A swim teaching course is the first step on this journey.
 
 These courses equip you with the necessary skills to teach swimming effectively. They cover both theoretical knowledge and practical skills.
