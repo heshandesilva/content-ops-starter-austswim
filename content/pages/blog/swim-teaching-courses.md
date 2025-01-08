@@ -55,7 +55,7 @@ seo:
   type: Seo
   metaTitle: The Benefits of Taking a Swim Teaching Courses for Career Growth
   metaDescription: lorem-ipsum
-  addTitleSuffix: false
+  addTitleSuffix: true
   metaTags: []
 colors: bg-light-fg-dark
 styles:
