@@ -53,7 +53,7 @@ isFeatured: false
 isDraft: false
 seo:
   type: Seo
-  metaTitle: lorem-ipsum
+  metaTitle: The Benefits of Taking a Swim Teaching Courses for Career Growth
   metaDescription: lorem-ipsum
   addTitleSuffix: false
   metaTags: []
