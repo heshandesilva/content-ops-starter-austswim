@@ -7,7 +7,7 @@ excerpt: Essential Skills for Swim Teacher Training
 featuredImage:
   type: ImageBlock
   url: /images/abstract-feature1.svg
-  altText: Thumbnail
+  altText: Essential Skills for Swim Teacher Training
   elementId: ''
   styles:
     self:
