@@ -53,7 +53,7 @@ isFeatured: false
 isDraft: false
 seo:
   type: Seo
-  metaTitle: lorem-ipsum
+  metaTitle: Essential Skills for Swim Teacher Training
   metaDescription: lorem-ipsum
   addTitleSuffix: false
   metaTags: []
