@@ -7,7 +7,7 @@ excerpt: teacher of swimming and water safety
 featuredImage:
   type: ImageBlock
   url: /images/abstract-feature1.svg
-  altText: Thumbnail
+  altText: teacher of swimming and water safety
   elementId: ''
   styles:
     self:
