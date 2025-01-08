@@ -3,7 +3,7 @@ type: PostLayout
 title: How to Become a Certified Swim Teaching Assessor
 date: '2025-01-08'
 author: content/data/person1.json
-excerpt: swim teaching assessor course
+excerpt: How to Become a Certified Swim Teaching Assessor
 featuredImage:
   type: ImageBlock
   url: /images/abstract-feature1.svg
