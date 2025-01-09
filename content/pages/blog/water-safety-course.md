@@ -7,7 +7,7 @@ excerpt: 'Water Safety Course: What to Expect'
 featuredImage:
   type: ImageBlock
   url: /images/abstract-feature1.svg
-  altText: Thumbnail
+  altText: 'Water Safety Course: What to Expect'
   elementId: ''
   styles:
     self:
