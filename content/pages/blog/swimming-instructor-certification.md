@@ -53,7 +53,7 @@ isFeatured: false
 isDraft: false
 seo:
   type: Seo
-  metaTitle: lorem-ipsum
+  metaTitle: Essential Steps to Become a Certified Swimming Instructor
   metaDescription: lorem-ipsum
   addTitleSuffix: false
   metaTags: []
