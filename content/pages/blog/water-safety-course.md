@@ -54,7 +54,7 @@ isDraft: false
 seo:
   type: Seo
   metaTitle: 'Water Safety Course: What to Expect'
-  metaDescription: lorem-ipsum
+  metaDescription: ''
   addTitleSuffix: true
   metaTags: []
 colors: bg-light-fg-dark
