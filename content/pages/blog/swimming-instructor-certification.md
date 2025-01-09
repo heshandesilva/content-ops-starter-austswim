@@ -3,9 +3,7 @@ type: PostLayout
 title: Essential Steps to Become a Certified Swimming Instructor
 date: '2025-01-09'
 author: content/data/person1.json
-excerpt: >-
-  Facilisis dui. Nulla molestie risus in mi dapibus, eget porta lorem semper.
-  Donec sed facilisis nibh.
+excerpt: Essential Steps to Become a Certified Swimming Instructor
 featuredImage:
   type: ImageBlock
   url: /images/abstract-feature1.svg
