@@ -7,7 +7,7 @@ excerpt: How to Become a Swim Instructor Australia
 featuredImage:
   type: ImageBlock
   url: /images/abstract-feature1.svg
-  altText: Thumbnail
+  altText: How to Become a Swim Instructor Australia
   elementId: ''
   styles:
     self:
