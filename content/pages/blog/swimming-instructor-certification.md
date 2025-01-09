@@ -7,7 +7,7 @@ excerpt: Essential Steps to Become a Certified Swimming Instructor
 featuredImage:
   type: ImageBlock
   url: /images/abstract-feature1.svg
-  altText: Thumbnail
+  altText: Essential Steps to Become a Certified Swimming Instructor
   elementId: ''
   styles:
     self:
