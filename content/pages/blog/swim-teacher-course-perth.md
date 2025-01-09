@@ -7,7 +7,7 @@ excerpt: The Benefits of Taking a Swim Teacher Course in Perth
 featuredImage:
   type: ImageBlock
   url: /images/abstract-feature1.svg
-  altText: Thumbnail
+  altText: The Benefits of Taking a Swim Teacher Course in Perth
   elementId: ''
   styles:
     self:
