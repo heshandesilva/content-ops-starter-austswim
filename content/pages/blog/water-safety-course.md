@@ -53,7 +53,7 @@ isFeatured: false
 isDraft: false
 seo:
   type: Seo
-  metaTitle: lorem-ipsum
+  metaTitle: 'Water Safety Course: What to Expect'
   metaDescription: lorem-ipsum
   addTitleSuffix: false
   metaTags: []
