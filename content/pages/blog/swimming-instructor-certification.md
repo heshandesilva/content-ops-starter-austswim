@@ -55,7 +55,7 @@ seo:
   type: Seo
   metaTitle: Essential Steps to Become a Certified Swimming Instructor
   metaDescription: lorem-ipsum
-  addTitleSuffix: false
+  addTitleSuffix: true
   metaTags: []
 colors: bg-light-fg-dark
 styles:
