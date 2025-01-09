@@ -54,8 +54,8 @@ isDraft: false
 seo:
   type: Seo
   metaTitle: How to Become a Swim Instructor Australia
-  metaDescription: lorem-ipsum
-  addTitleSuffix: false
+  metaDescription: ''
+  addTitleSuffix: true
   metaTags: []
 colors: bg-light-fg-dark
 styles:
