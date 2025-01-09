@@ -3,9 +3,7 @@ type: PostLayout
 title: The Benefits of Taking a Swim Teacher Course in Perth
 date: '2025-01-09'
 author: content/data/person1.json
-excerpt: >-
-  Facilisis dui. Nulla molestie risus in mi dapibus, eget porta lorem semper.
-  Donec sed facilisis nibh.
+excerpt: The Benefits of Taking a Swim Teacher Course in Perth
 featuredImage:
   type: ImageBlock
   url: /images/abstract-feature1.svg
